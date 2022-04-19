@@ -5,7 +5,7 @@ This a personal project to learn how to write clean code.
 ## Navigation
 
 - [Naming](Naming)
-- [Comments and code formatting](Comments%20and%20Code%20Formatting)
+- [Comments and code formatting](Comments%20and%20code%20dormatting)
 
 ## Sources
 
