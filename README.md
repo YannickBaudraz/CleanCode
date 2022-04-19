@@ -4,7 +4,8 @@ This a personal project to learn how to write clean code.
 
 ## Navigation
 
-- [Naming](Naming/README.md)
+- [Naming](Naming)
+- [Comments and code formatting](Comments%20and%20code%20dormatting)
 
 ## Sources
 
