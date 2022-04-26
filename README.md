@@ -4,6 +4,9 @@ This a personal project to learn how to write clean code.
 
 ## Navigation
 
+### Summary
+
+- [Summary](Summary)
 - [Naming](Naming)
 - [Comments and code formatting](Comments%20and%20code%20dormatting)
 - [Functions and methods](Functions%20and%20methods)
